@@ -17,7 +17,7 @@ PanDownloadSuperMOdified V1.11 Internal Test Version Application Description
 
 ![NGmeLF.png](https://s1.ax1x.com/2020/06/22/NGmeLF.png)
 
-Screenshot of 10m/s on June 20, 2020
+Screenshot of 9.7m/s on June 20, 2020
 
 为了防止软件很快就凉，为了保证大家的体验，为了防止软件被恶意使用，
 
