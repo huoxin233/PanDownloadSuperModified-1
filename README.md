@@ -115,7 +115,7 @@ Or directly use Baidu's web page or client to share files and copy links.
 
 把刚刚复制的链接粘贴在这里，点击打开
 
-ctrl+v int this.click "打开"
+ctrl+v in this.click "打开"
 
 ![NGmJsO.png](https://s1.ax1x.com/2020/06/22/NGmJsO.png)
 
