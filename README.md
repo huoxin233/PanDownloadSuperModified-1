@@ -85,7 +85,7 @@ Some people think that "luckin coffee is no good, nor is Starbucks. milk tea is 
 
 ## 使用帮助：
 
-FAQ
+FAQ:
 
 ### 不要调整软件内的任何设置！
 
