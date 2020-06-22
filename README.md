@@ -1,7 +1,7 @@
 
 ![NGlAzR.png](https://s1.ax1x.com/2020/06/22/NGlAzR.png)
 
-This distorted and rampant world, and its sad tomorrow will be ended by me.
+This distorted and rampant world, its sad tomorrow will be ended by me.
 
 （此页面并非第一发布页面，不及时更新，为了那些语文不好的网友，特地配上英文翻译）
 
